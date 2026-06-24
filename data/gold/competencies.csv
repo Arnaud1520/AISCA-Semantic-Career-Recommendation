@@ -1,0 +1,20 @@
+competency_id,competency,block,semantic_description
+C001,AWS,Cloud & DevOps,Expérience dans le déploiement d'infrastructures cloud et d'applications avec Amazon Web Services.
+C002,Agile,Software Engineering Practices,Expérience du travail en équipe agile et de la gestion de projet par itérations.
+C003,CI/CD,Cloud & DevOps,"Capacité à automatiser les processus de compilation, de test et de déploiement logiciel avec des pipelines CI/CD."
+C004,Docker,Cloud & DevOps,Capacité à conteneuriser des applications et à gérer des environnements reproductibles avec Docker.
+C005,Git,Cloud & DevOps,"Capacité à versionner, gérer et collaborer sur du code source avec Git."
+C006,Go,Programming,Capacité à développer des services backend et des applications avec le langage Go.
+C007,Java,Programming,Capacité à développer des applications backend ou d'entreprise avec Java.
+C008,JavaScript,Programming,Capacité à développer des applications web interactives avec JavaScript.
+C009,Kubernetes,Cloud & DevOps,Capacité à orchestrer et déployer des applications conteneurisées avec Kubernetes.
+C010,Machine Learning,AI / Machine Learning,"Capacité à entraîner, évaluer et déployer des modèles de machine learning pour des tâches prédictives."
+C011,MongoDB,Data Engineering,"Capacité à stocker, interroger et gérer des données NoSQL avec MongoDB."
+C012,Node.js,Programming,Capacité à développer des applications serveur et des API avec Node.js.
+C013,Python,Programming,"Capacité à développer des logiciels, scripts d'automatisation et applications data avec Python."
+C014,REST APIs,Backend Engineering,"Capacité à concevoir, consommer et documenter des API REST pour des systèmes logiciels."
+C015,React,Backend Engineering,Capacité à développer des interfaces utilisateur basées sur des composants avec React.
+C016,Ruby,Programming,Capacité à développer des applications web et services backend avec Ruby.
+C017,SQL,Data Engineering,"Capacité à interroger, manipuler et analyser des données structurées avec des bases SQL."
+C018,TensorFlow,AI / Machine Learning,Capacité à construire et entraîner des modèles de deep learning avec TensorFlow.
+C019,TypeScript,Programming,Capacité à développer des applications web robustes et typées avec TypeScript.

@@ -1,0 +1,8 @@
+competency_id,competency,block,semantic_description,similarity_score
+C013,Python,Programming,"Capacité à développer des logiciels, scripts d'automatisation et applications data avec Python.",0.6322414
+C001,AWS,Cloud & DevOps,Expérience dans le déploiement d'infrastructures cloud et d'applications avec Amazon Web Services.,0.5448587
+C010,Machine Learning,AI / Machine Learning,"Capacité à entraîner, évaluer et déployer des modèles de machine learning pour des tâches prédictives.",0.5227756
+C018,TensorFlow,AI / Machine Learning,Capacité à construire et entraîner des modèles de deep learning avec TensorFlow.,0.51111823
+C003,CI/CD,Cloud & DevOps,"Capacité à automatiser les processus de compilation, de test et de déploiement logiciel avec des pipelines CI/CD.",0.47423416
+C014,REST APIs,Backend Engineering,"Capacité à concevoir, consommer et documenter des API REST pour des systèmes logiciels.",0.46419626
+C004,Docker,Cloud & DevOps,Capacité à conteneuriser des applications et à gérer des environnements reproductibles avec Docker.,0.45159298

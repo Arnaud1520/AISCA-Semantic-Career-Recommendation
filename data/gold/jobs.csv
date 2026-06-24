@@ -1,0 +1,23 @@
+job_id,job_title,category
+J001,Engineering Manager,Technology
+J002,Lead Engineer,Technology
+J003,Senior Software Engineer,Technology
+J004,Senior Data Scientist,Technology
+J005,Project Manager,Technology
+J006,Product Manager,Technology
+J007,Technical Lead,Technology
+J008,Data Scientist,Technology
+J009,Frontend Developer,Technology
+J010,Solutions Architect,Technology
+J011,Software Engineer,Technology
+J012,Backend Developer,Technology
+J013,QA Engineer,Technology
+J014,Machine Learning Engineer,Technology
+J015,DevOps Engineer,Technology
+J016,Security Engineer,Technology
+J017,Full Stack Developer,Technology
+J018,UX Designer,Technology
+J019,Junior Developer,Technology
+J020,System Administrator,Technology
+J021,Business Analyst,Technology
+J022,Data Analyst,Technology

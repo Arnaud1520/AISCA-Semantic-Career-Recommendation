@@ -1,0 +1,4 @@
+job_id,matched_skills,recommendation_score,job_title,category,matched_skill_names
+J022,6,0.5211305283333333,Data Analyst,Technology,"Docker, AWS, Machine Learning, REST APIs, Python, TensorFlow"
+J008,6,0.5149831833333334,Data Scientist,Technology,"REST APIs, CI/CD, Python, AWS, Machine Learning, Docker"
+J015,6,0.5149831833333333,DevOps Engineer,Technology,"Python, REST APIs, CI/CD, Machine Learning, AWS, Docker"
